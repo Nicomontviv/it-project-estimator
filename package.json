@@ -1,0 +1,17 @@
+{
+  "name": "it-project-estimator",
+  "version": "1.0.0",
+  "description": "IT Project Estimator A web application built with Node.js and Express.js that helps IT companies estimate project costs in person-hours. The system allows clients to submit project ideas, calculates estimated effort, and displays available employees not currently assigned to other projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}

@@ -1,0 +1,31 @@
+Client User Stories
+
+As a client, I want to create my own account so that I can log in and access the system.
+
+As a client, I want to submit a project idea so that I can receive an estimation of cost and person-hours.
+
+As a client, I want to view the list of available workers so that I know who could potentially work on my project.
+
+As a client, I want to track the status of my project so that I can monitor its progress
+
+
+
+Worker User Stories
+
+As a worker, I want to log in with my account so that I can access my assigned projects.
+
+As a worker, I want to view the details of the projects assigned to me so that I know what tasks I need to complete.
+
+As a worker, I want to update the progress of my assigned projects so that the client and admin can see the current status.
+
+
+
+Admin User Stories
+
+As an admin, I want to create worker accounts so that new employees can access the system.
+
+As an admin, I want to assign workers to projects so that client requests can be fulfilled.
+
+As an admin, I want to manage all users (clients and workers) so that I can keep the system organized.
+
+As an admin, I want to see all submitted projects so that I can oversee resource allocation.
